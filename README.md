@@ -2,7 +2,7 @@
 
 ## Run the application
 
-1. Navigate to `./agile-engine-backend` directory with your terminal.
+1. Navigate to the main directory of the application with your terminal.
 2. Execute the following commands: `yarn install` and then `yarn start` (make sure to have yarn installed globally)
 
 ## Details
